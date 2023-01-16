@@ -1,4 +1,4 @@
-# Employee-Attrition-Descriptive-Analysis-and-Modelling
+# Employee-Attrition-Descriptive-Analysis
 
 # Objective
 Predict attrition of your valuable employees.
